@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cave
+  - World
+  - Fighter
+  - Ball
+  - DeathZone
+  - Floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - Foreground
+  - GUI
+  - Blocking
+  - Actor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1869439365
+    locked: 0
+  - name: Actor
+    uniqueID: 3231154875
+    locked: 0
+  - name: Wall
+    uniqueID: 1530623915
+    locked: 0
+  - name: Weapon
+    uniqueID: 1764228637
+    locked: 0
